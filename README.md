@@ -1,3 +1,6 @@
+![Alt text](Jenkins-aws.png)
+
+
 # Jenkins Deployment on AWS - DevOps Project
 
 This repository contains the resources, scripts, and configurations used to deploy Jenkins on an EC2 instance in AWS. The deployment utilizes a VPC setup with public and private subnets, and ensures that Jenkins is accessible securely only from specific IP addresses.
