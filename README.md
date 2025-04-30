@@ -1,4 +1,4 @@
-![Alt text](Jenkins-aws.png)
+![Alt text](jenkins-aws.png)
 
 
 # Jenkins Deployment on AWS - DevOps Project
